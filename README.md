@@ -1,11 +1,6 @@
-# travel-project
-
-<<<<<<< HEAD
+# Seamless Booking Project
 
 ## Description
-=======
-
->>>>>>> fceaf7834cf6f851162ffc064378e4b8b672e3d0
 At Seamless Booking, we're passionate about helping travelers like you create unforgettable journeys with ease and efficiency. Say goodbye to the days of scrambling through multiple tabs, endless spreadsheets, and sticky notes – we've simplified the art of travel planning.
 
 ##  Table of Contents 
@@ -25,9 +20,9 @@ At Seamless Booking, we're passionate about helping travelers like you create un
 
 ```
 AS A traveler
-I WANT to see the ...
-I WANT to see a list of activities for a vacation
-SO THAT I can plan a trip accordingly
+I WANT to see the information about a city.
+I WANT to see hotels within the city.
+SO THAT I can plan a trip accordingly.
 ```
 
 ## Features
@@ -42,20 +37,9 @@ SO THAT I can plan a trip accordingly
 
 - HTML5
 - CSS
+- Bulma
+- JS
 
-## Startup and Installation
-
-1. **Clone the Repository**
-
-Git clone https://github.com/Deazymat/travel-project.git
-
-2. **Navigate to Project Folder**:
-
-cd Travel-Project
-
-3. **Open in browser**
-
-Open index.html
 
 ## Screenshot
 
@@ -87,14 +71,6 @@ Screenshot goes here
 
 add and change whats needed for the following html and css needs. 
 
-## Resources  
-
-https://www.youtube.com/watch?v=NFToND6x_nI
-
-## License
-=======
-
-
 ## Review
 * Use a CSS framework other than Bootstrap.
 * Be deployed to GitHub Pages.
@@ -107,7 +83,6 @@ https://www.youtube.com/watch?v=NFToND6x_nI
 * Have a clean repository that meets quality coding standards (file structure, naming conventions, follows best practices for class/id-naming conventions, indentation, quality comments, etc.).
 * Have a quality README (with unique name, description, technologies used, screenshot, and link to deployed application).
 * add your project to the portfolio that you created in Module 2.
-=========
 
 ## Sources
 * https://www.youtube.com/watch?v=I6nuWeylMYM
